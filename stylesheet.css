@@ -189,6 +189,7 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  text-align: center;
 }
 
 .menu-icon {
@@ -214,7 +215,7 @@ footer {
   }
 
   footer {
-    text-align: right;
+    text-align: center;
   }
 }
 
